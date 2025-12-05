@@ -1,4 +1,7 @@
 # global-business-etl-star-schema
+
+ETL pipeline in Python with star schema modeling and Power BI dashboards for global business financials
+
 Data engineering project: BigQuery → Jupyter → Star Schema → Power BI
 
 Highlights
